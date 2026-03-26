@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://samuelhenrique.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-1E1E1E?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-1E1E1E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/samuel-henrique-d-ferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,7 +32,7 @@ Acredito em escrever código limpo, escalável e de fácil manutenção, e estou
 
 ### Foco Atual & Transição de Carreira
 <p align="left">
-  <img src="https://img.shields.io/badge/☕%20Java-%23ED8B00.svg?style=for-the-badge&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 </p>
 
@@ -55,4 +55,5 @@ Acredito em escrever código limpo, escalável e de fácil manutenção, e estou
 </p>
 
 ---
+
 <p align="center">Feito com ☕ e dedicação por Samuel Henrique</p>

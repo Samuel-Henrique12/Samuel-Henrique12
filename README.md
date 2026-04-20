@@ -47,15 +47,6 @@ Acredito em escrever código limpo, escalável e de fácil manutenção, e estou
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Samuel-Henrique12&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
-
 ---
 
 <p align="center">Feito com ☕ e dedicação por Samuel Henrique</p>

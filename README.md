@@ -51,7 +51,7 @@ Acredito em escrever código limpo, escalável e de fácil manutenção, e estou
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Samuel-Henrique12&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Samuel-Henrique12&show_icons=true&theme=tokyonight&cache_seconds=1800"
     alt="GitHub Stats"
   />
 </p>

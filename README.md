@@ -1,52 +1,47 @@
-<h1 align="center">Olá, eu sou o Samuel Henrique! 👋</h1>
-<h3 align="center">Desenvolvedor Fullstack | Especializando-me em Java & Spring Boot</h3>
-
-<p align="center"> <a href="https://samuelhenrique.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Meu_Portfólio-1E1E1E?style=for-the-badge" alt="Portfolio"></a><a href="https://www.linkedin.com/in/samuel-henrique-d-ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:samuelhenrique12dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou um Desenvolvedor Fullstack com experiência prática na construção de soluções web. Tenho uma base sólida no ecossistema **PHP, Laravel e JavaScript**, mas atualmente meu **foco principal de carreira e estudos está em Java e Spring Boot**.
-
-Acredito em escrever código limpo, escalável e de fácil manutenção, e estou em busca de oportunidades onde eu possa atuar diretamente com o ecossistema Java.
-
-- 💼 Trabalho atualmente com **PHP e Laravel**
-- 🚀 Focando meus estudos e projetos pessoais em **Java, Spring Boot, APIs RESTful e Arquitetura de Software**
-- 💡 Gosto de resolver problemas complexos e aprender novas tecnologias
-- 🌐 Conheça mais sobre o meu trabalho no meu [Portfólio](https://samuelhenrique.dev)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Foco Atual & Transição de Carreira
-
-<p align="left">
-  <img src="https://img.shields.io/badge/☕%20Java-%23ED8B00.svg?style=for-the-badge&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Samuel Henrique — Desenvolvedor Fullstack · Java & Spring Boot" width="100%"/>
 </p>
 
-### Experiência Sólida & Fullstack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Banco de Dados & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<p align="center">
+  <a href="https://samuelhenrique.dev" target="_blank"><img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=googlechrome&logoColor=F97316" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/samuel-henrique-d-ferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Y5NzMxNiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+  <a href="mailto:samuelhenrique12dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-181717?style=for-the-badge&logo=gmail&logoColor=F97316" alt="E-mail"/></a>
 </p>
 
 ---
 
-<p align="center">Feito com ☕ e dedicação por Samuel Henrique</p>
+## Sobre mim
+
+Desenvolvedor Fullstack com base sólida em arquitetura de software e código limpo. Atuo de ponta a ponta — do back-end ao front-end, do banco de dados à infraestrutura — transformando necessidades de negócio em software robusto, escalável e fácil de manter.
+
+- **Atualmente:** Desenvolvedor Fullstack na **VGX Contact Center**, trabalhando com **Java e Spring Boot**
+- **Foco:** APIs REST, Arquitetura Limpa/Hexagonal, mensageria e código testável
+- **Front-end:** interfaces modernas com React, Next.js e TypeScript
+- **Localização:** Betim, MG — aberto a trabalho remoto
+
+---
+
+## Stack
+
+<table>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,kotlin,kafka,hibernate&theme=dark" alt="Java, Spring, Kotlin, Kafka, Hibernate"/></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind"/></td>
+  </tr>
+  <tr>
+    <td><b>Dados</b></td>
+    <td><img src="./assets/stack-dados.svg" alt="PostgreSQL, Redis, Oracle, Flyway"/></td>
+  </tr>
+  <tr>
+    <td><b>Infra & Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,maven,gradle,git,idea&theme=dark" alt="Docker, Kubernetes, AWS, Maven, Gradle, Git, IntelliJ IDEA"/></td>
+  </tr>
+</table>
+
+---
+
+<p align="center"><sub>Feito com ☕ e Java por Samuel Henrique</sub></p>

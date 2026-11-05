@@ -26,7 +26,7 @@ Desenvolvedor Fullstack com base sólida em arquitetura de software e código li
 <table>
   <tr>
     <td><b>Back-end</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,kotlin,kafka,hibernate&theme=dark" alt="Java, Spring, Kotlin, Kafka, Hibernate"/></td>
+    <td><img src="./assets/stack-backend.svg" alt="Java, Spring, Kotlin, Kafka, Hibernate, Micronaut"/></td>
   </tr>
   <tr>
     <td><b>Front-end</b></td>
